@@ -1,2 +1,4 @@
 # Coding-teaching-portfolio
-Portfolio of Scratch, STEM &amp; coding projects taught to international students
+Hello! I'm a coding instructor with 3+ years experience teaching students from U.S, Canada, U.K & U.A.E
+I Specialize in:                                                                                                                                                       - Scratch programming                                                                                                                                                 - Game design for students                                                                                                                                            - STEM based learning                                                                                                                                                 - Project based coding education
+This portfolio shows coding projects, lesson plans & STEM activities I use while teaching students.
